@@ -1,0 +1,9 @@
+export { AboutSection } from "./about/about-section";
+export { CtaSection } from "./cta/cta-section";
+export { DifferentiatorsSection } from "./differentiators/differentiators-section";
+export { FaqSection } from "./faq/faq-section";
+export { HeroSection } from "./hero/hero-section";
+export { ProcessSection } from "./process/process-section";
+export { ProjectsSection } from "./projects/projects-section";
+export { ServicesSection } from "./services/services-section";
+export { TrustSection } from "./trust/trust-section";
