@@ -1,0 +1,2 @@
+:HL["/Seminario_Psicologia/_next/static/chunks/0ez3e58kuge0q.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"tFWm19AgOngonrwKCbA4d"}
